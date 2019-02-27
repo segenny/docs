@@ -19,5 +19,5 @@ Waple Admin(제어정보관리 및 통계생성), Service(API호출처리 및 �
 
 
 # Documentation & Support
-1. [API 가이드문서](https://github.com/segenny/docs/wiki){: target="_blank" }
-2. 
+1. [API 가이드문서](https://github.com/segenny/docs/wiki){:target="_blank"}
+2. [API 가이드문서](https://github.com/segenny/docs/wiki target="_blank")
