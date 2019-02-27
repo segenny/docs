@@ -1,4 +1,4 @@
-# [Django REST framew1ork][docs2]
+# [Django REST framework][docs]
 
 [![build-status-image]][travis]
 [![coverage-status-image]][codecov]
