@@ -1,4 +1,4 @@
-# [API STORE][docs]
+# [API STORE][https://www.apistore.co.kr/main.do]
 
 ### Waple Platform
 당신의 API Business를 효율적으로 관리해 줄 OPEN API 플랫폼 “Waple”
