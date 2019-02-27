@@ -1,4 +1,6 @@
-# [API STORE][https://www.apistore.co.kr/main.do]
+# [API STORE](https://www.apistore.co.kr/main.do)
+
+
 
 ### Waple Platform
 당신의 API Business를 효율적으로 관리해 줄 OPEN API 플랫폼 “Waple”
@@ -13,13 +15,9 @@ Waple Admin(제어정보관리 및 통계생성), Service(API호출처리 및 �
 
 ### API 스토어 시스템 구성도
 **API 스토어를 통해 등록된 API는 다음과 같은 형태로 서비스를 제공하고 있습니다.**
-![Image of Yaktocat](//www.apistore.co.kr/images/renew/bi_apistore.png)
-<img src="https://www.apistore.co.kr/images/renew_2017/vi_waple_01.gif">
+![vi_waple_01](https://user-images.githubusercontent.com/11333226/53493952-fc81e500-3adf-11e9-860f-1108fe26a33d.gif)
 
 
-![2222222222222Image of Yaktocat](https://www.apistore.co.kr/images/renew/bi_apistore.png)
-
-# a
 
 [![][rover-img]][rover-url]
 [![][sentry-img]][sentry-url]
