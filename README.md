@@ -1,23 +1,17 @@
-# [Django REST framework][docs]
+# [API STORE][docs]
 
-[![build-status-image]][travis]
-[![coverage-status-image]][codecov]
-[![pypi-version]][pypi]
+# Waple Platform
+당신의 API Business를 효율적으로 관리해 줄 OPEN API 플랫폼 “Waple”
 
-**Awesome web-browsable Web APIs.**
 
-Full documentation for the project is available at [https://www.django-rest-framework.org/][docs].
+# API STORE 주요기능
 
----
+API 스토어는 API 관리를 위한 자체 개발 솔루션 ‘Waple’을 통해 안정적인 서비스를 제공하고 있습니다. 
+다수의 고객사가 다수의 API를 등록, 발급하는 과정에서 발생하는 여러가지 이슈들을 통합적으로 고려하여 Waple Platform에서 기업들이 API를 안정적으로 유지, 관리할 수 있습니다.
 
-# Funding
+API 스토어는 개발자 지원사항을 포함한 API 서비스 센터와 API 관리를 위한 API 관리 센터로 구성됩니다. 고객사는 API 스토어 서비스 센터를 이용하여 API를 등록 또는 구매할 수 있습니다.
 
-REST framework is a *collaboratively funded project*. If you use
-REST framework commercially we strongly encourage you to invest in its
-continued development by [signing up for a paid plan][funding].
-
-The initial aim is to provide a single full-time position on REST framework.
-*Every single sign-up makes a significant impact towards making that possible.*
+Waple Admin(제어정보관리 및 통계생성), Service(API호출처리 및 호출제어), DB(데이터 저장), Cache(분산 캐싱), Adapter(가상 API) 총 5개의 서버 시스템으로 구성되어 있습니다.
 
 [![][rover-img]][rover-url]
 [![][sentry-img]][sentry-url]
