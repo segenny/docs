@@ -13,7 +13,13 @@ Waple Admin(제어정보관리 및 통계생성), Service(API호출처리 및 �
 
 ### API 스토어 시스템 구성도
 **API 스토어를 통해 등록된 API는 다음과 같은 형태로 서비스를 제공하고 있습니다.**
-![API스토어시스템구성도](https://www.apistore.co.kr/images/renew_2017/vi_waple_01.gif)
+![Image of Yaktocat](//www.apistore.co.kr/images/renew/bi_apistore.png)
+<img src="https://www.apistore.co.kr/images/renew_2017/vi_waple_01.gif">
+
+
+![2222222222222Image of Yaktocat](https://www.apistore.co.kr/images/renew/bi_apistore.png)
+
+# a
 
 [![][rover-img]][rover-url]
 [![][sentry-img]][sentry-url]
