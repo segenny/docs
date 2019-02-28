@@ -1,6 +1,8 @@
 # [API STORE](https://www.apistore.co.kr/main.do)
 
-
+# Documentation & Support
+1. [API 가이드](https://github.com/segenny/docs/wiki)
+2. [대용량문자 가이드](https://github.com/segenny/docs/wiki/SMS-API)
 
 ### Waple Platform
 당신의 API Business를 효율적으로 관리해 줄 OPEN API 플랫폼 “Waple”
